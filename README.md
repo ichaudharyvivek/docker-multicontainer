@@ -1,2 +1,3 @@
 # docker-multicontainer
-Docker Container
+
+> Creating multiple sub-containers using docker-compose
